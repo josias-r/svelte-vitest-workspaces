@@ -1,0 +1,15 @@
+{
+  "name": "svelte-vitest-workspaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "workspaces": [
+    "my-app"
+  ],
+  "author": "",
+  "license": "ISC"
+}
